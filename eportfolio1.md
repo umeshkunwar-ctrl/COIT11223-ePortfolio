@@ -47,7 +47,6 @@ In the second workshop, I took part in the discussions as well as activities con
 Reflection
 
 This is the artefact I selected because it shows my learning experience at the second workshop. Discussions about the issues connected with AI made me realise that AI is an important technology which has to be used properly. After hearing the opinions of other participants in the workshop, I understood better the ethical issues associated with such technologies as AI.
-## References
 
 ## References
 

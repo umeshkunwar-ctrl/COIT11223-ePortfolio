@@ -37,7 +37,7 @@ I opted for this artefact as I believe that generative AI is becoming more and m
 ## Artefact 4 – Workshop Activity and Personal Learning
 
 **Source:** My Workshop 2 activity and notes
-![Workshop Activity](images/workshop-activity.png.jpeg)
+
 Summary
 
 In the second workshop, I took part in the discussions as well as activities concerning artificial intelligence (AI) and its effect on society. The workshop consisted of topics such as machine learning, computer vision, robotics, speech recognition and natural language processing. The workshop also dealt with ethical issues appearing from AI such as privacy, bias, fairness, transparency and accountability. The activities allowed the students to think critically about the appropriate way of using the technology. 

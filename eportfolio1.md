@@ -24,8 +24,7 @@ Reflection
 
 I chose this artefact due to the fact that autonomous vehicles were among the most fascinating topics in Workshop 2. It allowed me to realize how AI is combining different technologies to make complicated decisions in a real-time mode. Even though the self-driving cars can change the car safety on the road and reduce the amount of accidents on the roads, they still cause serious ethical problems, such as accountability, public trust, and decision making in emergencies.
 ## Artefact 3 – Generative AI in Education
-
-**Source:** (Use the article or webpage you selected about Generative AI in Education)
+**Source:** OpenAI – ChatGPT
 ![Generative AI in Education](images/generative-ai.png.png)
 Summary
 

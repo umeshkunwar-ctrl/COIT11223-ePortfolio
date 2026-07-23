@@ -16,3 +16,13 @@ Waymo is an enterprise that is creating autonomous driving technology through th
 Reflection
 
 I chose this artefact due to the fact that autonomous vehicles were among the most fascinating topics in Workshop 2. It allowed me to realize how AI is combining different technologies to make complicated decisions in a real-time mode. Even though the self-driving cars can change the car safety on the road and reduce the amount of accidents on the roads, they still cause serious ethical problems, such as accountability, public trust, and decision making in emergencies.
+## Artefact 3 – Generative AI in Education
+
+**Source:** (Use the article or webpage you selected about Generative AI in Education)
+Summary
+
+Generative AI is revolutionising the very fabric of education as well as assisting students and teachers with chores such as creation of content, adaptation of learning, provision of feedback, and performing research. Programs such as ChatGPT have proved to be useful in increasing the effectiveness of education as they help make explanations, provide answers to questions and help with writing itself. Nevertheless, the use of generative AI brings about worries regarding issues like academic integrity, misinformation, privacy, and overdependence on AI-generated content. Thus, it is essential to use generative AI responsibly and formulate ethical resolutions to ensure that AI is used for the purpose of assisting in learning and not replacing thinking processes undertaken by the individual.
+
+Reflection
+
+I opted for this artefact as I believe that generative AI is becoming more and more relevant nowadays and has direct implications for my studies in Information Technology. I found out during Workshop 2 that AI can only be benefited from in a responsible and ethically correct manner. This artefact allowed me to see both the benefits of generative AI in the field of education along with the dangers connected with the application of AI for educational purposes.

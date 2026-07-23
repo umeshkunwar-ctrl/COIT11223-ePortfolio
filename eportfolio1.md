@@ -49,8 +49,10 @@ Reflection
 This is the artefact I selected because it shows my learning experience at the second workshop. Discussions about the issues connected with AI made me realise that AI is an important technology which has to be used properly. After hearing the opinions of other participants in the workshop, I understood better the ethical issues associated with such technologies as AI.
 ## References
 
-Australian Government. (2024). *Australia's AI Ethics Principles*.
+## References
 
-Waymo. (2024). *Waymo Official Website*.
+Australian Government. (2024). *Australia's AI Ethics Principles*. Available at: https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles (Accessed: 23 July 2026).
 
-(Your Generative AI article reference in CQUniversity Harvard style.)
+OpenAI. (2024). *ChatGPT*. Available at: https://chatgpt.com/ (Accessed: 23 July 2026).
+
+Waymo. (2024). *Waymo*. Available at: https://waymo.com/ (Accessed: 23 July 2026).

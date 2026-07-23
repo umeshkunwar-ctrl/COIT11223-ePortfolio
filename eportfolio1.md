@@ -35,8 +35,10 @@ Reflection
 
 I opted for this artefact as I believe that generative AI is becoming more and more relevant nowadays and has direct implications for my studies in Information Technology. I found out during Workshop 2 that AI can only be benefited from in a responsible and ethically correct manner. This artefact allowed me to see both the benefits of generative AI in the field of education along with the dangers connected with the application of AI for educational purposes.
 ## Artefact 4 – Workshop Activity and Personal Learning
+**Source:** My Workshop 2 participation and notes
 
-**Source:** My Workshop 2 activity and notes
+![Workshop Activity](images/workshop-activity.png.jpeg)
+*Figure 4. Workshop 2 participation and attendance.*
 
 Summary
 

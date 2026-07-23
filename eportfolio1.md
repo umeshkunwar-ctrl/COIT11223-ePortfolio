@@ -26,3 +26,13 @@ Generative AI is revolutionising the very fabric of education as well as assisti
 Reflection
 
 I opted for this artefact as I believe that generative AI is becoming more and more relevant nowadays and has direct implications for my studies in Information Technology. I found out during Workshop 2 that AI can only be benefited from in a responsible and ethically correct manner. This artefact allowed me to see both the benefits of generative AI in the field of education along with the dangers connected with the application of AI for educational purposes.
+## Artefact 4 – Workshop Activity and Personal Learning
+
+**Source:** My Workshop 2 activity and notes
+Summary
+
+In the second workshop, I took part in the discussions as well as activities concerning artificial intelligence (AI) and its effect on society. The workshop consisted of topics such as machine learning, computer vision, robotics, speech recognition and natural language processing. The workshop also dealt with ethical issues appearing from AI such as privacy, bias, fairness, transparency and accountability. The activities allowed the students to think critically about the appropriate way of using the technology. 
+
+Reflection
+
+This is the artefact I selected because it shows my learning experience at the second workshop. Discussions about the issues connected with AI made me realise that AI is an important technology which has to be used properly. After hearing the opinions of other participants in the workshop, I understood better the ethical issues associated with such technologies as AI.

@@ -6,3 +6,6 @@ The Australian Government has put together a document titled Australia’s AI et
 
 
 I selected this work because I learned that creating AI technologies concerns not only the invention of sophisticated technologies but also thinking of the implications of AI on human beings and society. I must admit that after listening to Workshop 2 on ethics in AI, I understood that fairness, transparency and accountability are among the main principles that should be followed so that AI technologies could be trustworthy.
+## Artefact 2 – Waymo Driverless Cars
+
+**Source:** Waymo Official Website

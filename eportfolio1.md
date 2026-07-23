@@ -9,3 +9,10 @@ I selected this work because I learned that creating AI technologies concerns no
 ## Artefact 2 – Waymo Driverless Cars
 
 **Source:** Waymo Official Website
+Summary
+
+Waymo is an enterprise that is creating autonomous driving technology through the use of artificial intelligence. The self-driving vehicles work thanks to a range of different technologies: computer vision, machine learning, sensors and real-time data analysis among others. The goal of this technology is to decrease the number of mistakes performed by people, enhance safety on the roads and provide good transportation means. Therefore Waymo provides a valid example of how AI can be used in solving real-world problems. 
+
+Reflection
+
+I chose this artefact due to the fact that autonomous vehicles were among the most fascinating topics in Workshop 2. It allowed me to realize how AI is combining different technologies to make complicated decisions in a real-time mode. Even though the self-driving cars can change the car safety on the road and reduce the amount of accidents on the roads, they still cause serious ethical problems, such as accountability, public trust, and decision making in emergencies.

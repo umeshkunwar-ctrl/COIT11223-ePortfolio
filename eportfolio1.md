@@ -27,11 +27,10 @@ I chose this artefact as one of the most interesting subjects that arose in Work
 ![Generative AI in Education](images/generative-ai.png.png)
 Summary
 
-Generative AI is reshaping the learning experience, bringing a new dimension to student and teacher workflows, from content creation to adapting and providing feedback on learning, and from research to more streamlined processes. Programs such as ChatGPT have proved to be useful in increasing the effectiveness of education as they help make explanations, provide answers to questions and help with writing itself. Nevertheless, the use of generative AI brings about worries regarding issues like academic integrity, misinformation, privacy, and overdependence on AI-generated content. Therefore, it is crucial to use generative AI responsibly, and to work towards ethical solutions, so that AI can help students to learn but not replace their own thinking.
+The learning experience is being transformed by Generative AI, which is changing the way students and educators work, in areas such as creating material, utilizing feedback, and conducting research. The advantages of tools such as ChatGPT in education stem from their ability to facilitate explanation of ideas, provide answers to a variety of questions, and aid in writing itself. Nonetheless, Generative AI raises certain concerns, such as those of integrity in academics, misinformation, privacy, and too much reliance on AI-generated material. Thus, the usage of Generative AI must be judicious and involve finding ethical solutions.
 
 Reflection
-
-I opted for this artefact as I believe that generative AI is becoming more and more relevant nowadays and has direct implications for my studies in Information Technology. I found out during Workshop 2 that AI can only be benefited from in a responsible and ethically correct manner. I can see how useful generative AI can be in the education sphere and the risks involved in using AI in education with this artefact.
+The reason I chose this artifact is that Generative AI is gaining importance in everyday life nowadays, and it is relevant because it pertains to my studies of Information Technology. Moreover, I learned from Workshop 2 that AI can only be useful when utilized in an ethical and responsible manner while dismissing unethical ways of employing the technology.
 ## Artefact 4 – Workshop Activity and Personal Learning
 **Source:** My Workshop 2 participation and notes
 
@@ -40,11 +39,11 @@ I opted for this artefact as I believe that generative AI is becoming more and m
 
 Summary
 
-In the second workshop, I took part in the discussions as well as activities concerning artificial intelligence (AI) and its effect on society. Topics covered in the workshop were machine learning, computer vision, robotics, speech recognition and natural language processing. The workshop also dealt with ethical issues appearing from AI such as privacy, bias, fairness, transparency and accountability. The activities gave students the opportunity to consider how to use the technology appropriately. 
+The second workshop was dedicated to discussing various aspects of AI and its influence on people. During this workshop, discussions were held on topics machine learning, computer vision and AI-related ethical concerns. Workshops provided an opportunity for everyone participating to think about the right use of AI. 
 
 Reflection
 
-For this artefact I chose this artefact as it demonstrates my learning experience from the second workshop. Discussions about the issues connected with AI made me realise that AI is an important technology which has to be used properly. After hearing the opinions of other participants in the workshop, I understood better the ethical issues associated with such technologies as AI.
+This artefact shows how much I learned during the last workshop. Working on AI-related topics helped me understand how this technology should be properly used.
 
 ## References
 
